@@ -24,7 +24,7 @@ function echoDorks() {
   echo -e "${blueColour}************ Github Dork Links (must be logged in) *******************${endColour}"
   search_entries=(
   "password"
-  "npmrc _auth"
+  "npmrc_auth"
   "dockercfg"
   "pem private"
   "id_rsa"
